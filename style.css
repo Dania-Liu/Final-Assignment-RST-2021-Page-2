@@ -1,20 +1,20 @@
-#redBackground {
+#red-background {
   background-color: red;
 }
 
-#firstPicture {
+#first-picture {
   display: none;
   height: 25%;
   width: 25%;
 }
 
-#firstGold {
+#first=gold {
   height: 10%;
   width: 10%;
   float: right;
 }
 
-#orangeHeading {
+#orange-heading {
   text-align: center;
   font-family: cursive;
   color: green;
@@ -41,7 +41,7 @@
   text-align: center;
 }
 
-#secondRiddle {
+#second-riddle {
   background-color: orange;
   color: green;
 }
