@@ -18,5 +18,5 @@ function firstSubmit () {
 
 // Creates function that reveals an image when the user clicks on "Hint" for the first riddle.
 function firstHint () {
-  document.getElementById('firstPicture').style.display = "block"
+  document.getElementById('firstPicture').style.display = 'block'
 }
