@@ -12,7 +12,7 @@ function firstSubmit () {
   if (firstAnswer === 'rainbow') {
     document.getElementById('first-outcome').innerHTML = ('Correct, please proceed.')
   } else {
-    document.getElementById('first=outcome').innerHTML = ('Incorrect, try again.')
+    document.getElementById('first-outcome').innerHTML = ('Incorrect, try again.')
   }
 }
 
